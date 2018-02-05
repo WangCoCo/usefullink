@@ -13,6 +13,7 @@ mirror镜像资源:http://mirrors.ustc.edu.cn/ ; https://lug.ustc.edu.cn/wiki/mi
 #付新银：http://blog.csdn.net/fuxingyin
 #冯兵：http://fengbing.net/
 #刘富强：http://www.cnblogs.com/liufuqiang/tag/Pangolin/
+#yanqinrui: http://blog.csdn.net/qinruiyan
 #刘：http://www.liuxiao.org/
 #火龙果：http://zguoxian.cn/2017/04/18/%E9%87%8C%E7%A8%8B%E8%AE%A1%E8%A7%86%E8%A7%89%E8%9E%8D%E5%90%88SLAM/
 #http://blog.csdn.net/aptx704610875
@@ -28,7 +29,7 @@ mirror镜像资源:http://mirrors.ustc.edu.cn/ ; https://lug.ustc.edu.cn/wiki/mi
 网站：http://paopaorobot.org/forums/forum/%E6%B3%A1%E6%B3%A1%E8%AE%BA%E5%9D%9B/ ；
 超多链接：http://slamcn.org/index.php/%E9%A6%96%E9%A1%B5;;
 http://www.openslam.org/
-#git链接：https://github.com/PaoPaoRobotGroup ；https://gitee.com/heyijia/vo_and_odocal
+#git链接：https://github.com/PaoPaoRobotGroup ；https://gitee.com/heyijia/vo_and_odocal  ;https://gitee.com/paopaoslam
 #
 #math:
 #理解矩阵系列：http://blog.csdn.net/myan/article/details/1865397
