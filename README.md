@@ -43,3 +43,11 @@ http://www.openslam.org/
 #http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B
 #team:
 https://git.ustclug.org/users/sign_in
+
+杭州：
+人力资源和社会保障网： http://www.hzrcj.org.cn/rsdawz/login/
+人才引进落户：https://wenku.baidu.com/view/62cdbe014a73f242336c1eb91a37f111f1850d88.html
+
+USTC
+ustc资源导航 http://ourscgy.ustc.edu.cn/guide/
+ustcmirror: http://mirrors.ustc.edu.cn/
